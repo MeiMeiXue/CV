@@ -11,10 +11,6 @@ html,body{
   height: 100%;
   overflow: hidden;
 }
-#container,.sections,.section{
-  height: 100%;
-  position: relative;
-}
 
 /* 分页符 */
 .pages{
